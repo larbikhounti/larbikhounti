@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **automated programming**
 
-- 🌱 I’m currently learning **nodejs,realtime,orms,vuejs**
+- 🌱 I’m currently learning **nodejs,realtime,orms,reactjs**
 
 - 👯 I’m looking to collaborate on **backend projects**
 
