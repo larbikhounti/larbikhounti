@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mohamed khounti</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
-- 🔭 I’m currently working on **automated programming**
+- 🔭 I’m currently working on **quran app && ADSlab**
 
 - 🌱 I’m currently learning **nodejs,realtime,orms,reactjs**
 
