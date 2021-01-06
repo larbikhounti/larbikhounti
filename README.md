@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm mohamed khounti</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
-- 🔭 I’m currently working on **quran app && ADSlab**
+- 🔭 I’m currently working on **e-commerce website**
 
-- 🌱 I’m currently learning **nodejs,realtime,orms,reactjs**
+- 🌱 I’m currently learning **nodejs,realtime,orms,reactjs,php**
 
 - 👯 I’m looking to collaborate on **backend projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/larbikhounti?tab=repositories](https://github.com/larbikhounti?tab=repositories)
-
-- 💬 Ask me about **everything**
 
 - 📫 How to reach me **larbikhounti@gmail.com**
 
