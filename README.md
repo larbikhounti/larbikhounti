@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **e-commerce website**
 
-- 🌱 I’m currently learning **nodejs,realtime,orms,reactjs,php**
+- 🌱 I’m currently learning **php,laravel**
 
 - 👯 I’m looking to collaborate on **backend projects**
 
